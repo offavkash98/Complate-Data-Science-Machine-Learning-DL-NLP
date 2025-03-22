@@ -1,0 +1,12 @@
+prefix=d:/DS-Project/Complate-Data-Science-Machine-Learning-DL-NLP/venv/Library
+exec_prefix=d:/DS-Project/Complate-Data-Science-Machine-Learning-DL-NLP/venv/Library
+libdir=d:/DS-Project/Complate-Data-Science-Machine-Learning-DL-NLP/venv/Library/lib
+includedir=d:/DS-Project/Complate-Data-Science-Machine-Learning-DL-NLP/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 
