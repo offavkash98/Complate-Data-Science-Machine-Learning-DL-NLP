@@ -1,4 +1,9 @@
 ipykernel
-scikit-learn
-pandas
 numpy
+pandas
+matplotlib
+seaborn
+flask
+memory_profiler
+streamlit
+scikit-learn
